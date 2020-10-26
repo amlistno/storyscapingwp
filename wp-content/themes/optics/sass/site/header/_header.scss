@@ -1,0 +1,60 @@
+.header-image {
+	width: $size__site-main;
+	display: block;
+}
+
+.site-logo {
+	margin-bottom: 1em;
+}
+
+.lSSlideOuter {
+	padding: 5% 5% 0;
+	margin: 0 !important;
+}
+
+.site-header {
+	padding: 5% 0% 3% 5%;
+	float: left;
+	width: $size__site-header;
+}
+
+.site-branding {
+	margin-bottom: 1.5em;
+
+	@media screen and ( max-width: 50em ) {
+	    text-align: center;
+	}
+}
+
+.site-title {
+	margin: 0;
+	text-transform: uppercase;
+	@include font-size(1.5);
+
+	a {
+		text-decoration: none;
+	}
+}
+
+.site-description {
+	@include font-size(0.875);
+	opacity: 0.7;
+	margin: 0;
+}
+
+@media screen and ( max-width: 65em ) {
+
+	.site-header {
+		width: $size__site-sidebar;
+	}
+
+}
+
+@media screen and ( max-width: 50em ) {
+
+	.site-header {
+		width: $size__site-main;
+		padding-right: 5%;
+	}
+
+}

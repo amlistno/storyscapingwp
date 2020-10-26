@@ -1,0 +1,17 @@
+a {
+	color: $color__mine-shaft;
+	transition: color 0.3s ease-in;
+
+	&:hover,
+	&:focus,
+	&:active {
+		color: $color__code-gray;
+	}
+	&:focus {
+		outline: 0;
+	}
+	&:hover,
+	&:active {
+		outline: 0;
+	}
+}

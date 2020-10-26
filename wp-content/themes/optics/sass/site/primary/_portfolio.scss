@@ -1,0 +1,134 @@
+.portfolio-content,
+.infinite-wrap {
+	overflow: hidden;
+	-webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
+}
+
+.content-area.jetpack-portfolio-home {
+	width: $size__site-main;
+	margin: 0;
+}
+
+.portfolio-content article,
+.post-type-archive .infinite-wrap article {
+	max-height: 100%;
+    width: $size__site-main;
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.portfolio-content h3,
+.post-type-archive .infinite-wrap  h3 {
+	display: inline-block;
+}
+
+.portfolio-content h3 a,
+.post-type-archive .infinite-wrap h3 a {
+	text-decoration: none;
+	text-align: center;
+	display: block;
+}
+
+.portfolio-content figure,
+.post-type-archive .infinite-wrap figure {
+	margin: 0;
+	position: relative;
+}
+
+.portfolio-content figure img,
+.post-type-archive .infinite-wrap figure img {
+	opacity: 1;
+	transform: translate3d(0px,0px,0px);
+    transition: opacity 0.1s ease-in;
+}
+
+.portfolio-content figure:hover img,
+.post-type-archive .infinite-wrap  figure:hover img {
+	opacity: 0.4;
+}
+
+.single-jetpack-portfolio .content-area {
+	width: $size__site-main;
+}
+
+.portfolio-content a.portfolio-title-wrap,
+.post-type-archive .infinite-wrap a.portfolio-title-wrap {
+	position: absolute;
+	bottom: 0;
+	top: 0;
+	width: $size__site-main;
+	text-align: left;
+	text-decoration: none;
+}
+
+.portfolio-content a:hover,
+.post-type-archive .infinite-wrap a:hover {
+	opacity: 1;
+}
+
+.portfolio-meta {
+	width: $size__site-main;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+
+.portfolio-content figure div.portfolio-title,
+.post-type-archive .infinite-wrap figure div.portfolio-title {
+	position: absolute;
+	bottom: 22px;
+	left: 20px;
+	-webkit-backface-visibility: hidden;
+	opacity: 0;
+	transition: all 0.2s ease-in-out;
+	line-height: 1.2;
+	font-weight: bold;
+}
+
+.portfolio-content figure:hover div.portfolio-title,
+.post-type-archive .infinite-wrap  figure:hover div.portfolio-title {
+	opacity: 1;
+	bottom: 25px;
+	left: 20px;
+
+}
+
+.no-image {
+	background-color: #eee;
+	height: 200px;
+}
+
+@media screen and ( max-width: 65em ) {
+
+	.portfolio-content article {
+		width: $size__site-main;
+		margin-right: 0%;
+		float: none;
+	}
+
+}
+
+@media screen and ( max-width: 50em ) {
+
+	.portfolio-content {
+		overflow: hidden;
+		-webkit-column-count: 2;
+	    -moz-column-count: 2;
+	    column-count: 2;
+	}
+
+}
+
+@media screen and ( max-width: 30em ) {
+
+	.portfolio-content {
+		overflow: hidden;
+		-webkit-column-count: 1;
+	    -moz-column-count: 1;
+	    column-count: 1;
+	}
+
+}

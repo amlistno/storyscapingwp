@@ -1,0 +1,79 @@
+.widget {
+	margin: 0 0 1.5em;
+	@include font-size(.875);
+}
+
+.widget::after {
+	border-bottom: 2px solid #111;
+	height: 2px;
+	width: 100px;
+	display: block;
+	content: '';
+	margin: 4em 0;
+}
+
+.site-content .widget-area {
+	width: $size__site-sidebar;
+	float: right;
+}
+
+.site-content .widget-area input[type="search"] {
+	border-color: $color__silver;
+	padding: 4px;
+}
+
+/* Make sure select elements fit in widgets. */
+.widget select {
+	max-width: $size__site-main;
+}
+
+.widget ul {
+	margin: 0;
+	padding: 0 1.25em;
+}
+
+.widget-title {
+	@include font-size(1.25);
+}
+
+.widget_calendar th,
+.widget_calendar td {
+	border: 1px solid;
+	text-align: center;
+	padding: 1%;
+}
+
+.widget_calendar caption {
+	margin-bottom: 1em;
+}
+
+.footer-widgets {
+	padding: 5%;
+}
+
+.footer-widgets .widget-area {
+	width: 30%;
+	margin-right: 5%;
+	float: left;
+}
+
+.footer-widgets .widget-area:nth-child(3n+3) {
+	margin-right: 0;
+}
+
+.search-submit {
+	margin-top: 10px;
+}
+
+#secondary .search-submit {
+	display: none;
+}
+
+@media screen and ( max-width: 65em ) {
+
+	.footer-widgets .widget-area {
+		width: $size__site-main;
+		margin-right: 0%;
+		float: none;
+	}
+}

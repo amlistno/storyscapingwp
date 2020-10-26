@@ -1,0 +1,123 @@
+.comments-area {
+	margin: 0 0 3.5em;
+}
+
+.comment-list {
+	list-style: none;
+	margin: 0 0 3.5em;
+	padding: 0;
+
+	.children {
+		list-style: none;
+	}
+}
+
+.comment-content a,
+.entry-content a {
+	word-wrap: break-word;
+}
+
+.comment-meta {
+	@include font-size(.875);
+	margin: 0 0 1.75em;
+}
+
+.comment .comment-meta:after {
+	border-top: 1px solid;
+	content: "";
+	display: block;
+	margin-top: .875em;
+	width: $size__site-sidebar;
+}
+
+.comment .avatar {
+	float: left;
+	margin-right: .875em;
+}
+
+.comment .comment-metadata span {
+	margin: 0 1.75em 0 0;
+}
+
+.comment-author {
+	clear: both;
+	display: block;
+	@include font-size(1);
+	font-style: normal;
+	font-weight: bold;
+	position: relative;
+}
+
+.says {
+	display: none;
+}
+
+.comment-list .comment {
+	margin-top: 3.5em;
+	clear: both;
+}
+
+.bypostauthor {
+	display: block;
+}
+
+.no-comments {
+	@include font-size(.875);
+	margin: 1.75em 0;
+}
+
+#cancel-comment-reply-link {
+	float: right;
+}
+
+.comment-form label {
+	margin-right: .875em;
+	width: 7em;
+	display: block;
+}
+
+.form-allowed-tags,
+.form-allowed-tags code {
+	@include font-size(.8125);
+}
+
+.comment-subscription-form {
+	margin-bottom: 0.4375em;
+}
+
+.no-comments {
+	clear: both;
+}
+
+@media screen and ( min-width: 70em ) {
+	.comment .comment-content {
+		float: right;
+		width: $size__site-primary;
+	}
+
+	.comment .comment-meta {
+		float: left;
+		width: $size__site-sidebar;
+	}
+
+	.comment .comment-metadata span {
+		clear: both;
+		display: block;
+		margin: 0 0 0.4375em;
+	}
+
+	.comment .comment-metadata span.comment-author {
+		margin-bottom: 0;
+	}
+
+	.comment .avatar {
+		float: none;
+		margin: 0;
+		max-width: 44px;
+		height: auto;
+		position: absolute;
+		top: 4px;
+		left: -4em;
+	}
+
+}

@@ -1,0 +1,9 @@
+Version 1.0.1
+=============
+	* Feb 29, 2016
+	* Sidebar on pages not showing bug fix
+
+Version 1.0.0
+=============
+	* Feb 25, 2016
+	* Initial release

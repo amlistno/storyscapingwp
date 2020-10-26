@@ -1,0 +1,64 @@
+/* Globally hidden elements when Infinite Scroll is supported and in use. */
+.infinite-scroll .posts-navigation, /* Older / Newer Posts Navigation (always hidden) */
+.infinite-scroll.neverending .site-footer { /* Theme Footer (when set to scrolling) */
+	display: none;
+}
+
+/* When Infinite Scroll has reached its end we need to re-display elements that were hidden (via .neverending) before. */
+.infinity-end.neverending .site-footer {
+	display: block;
+}
+
+#infinite-handle {
+	margin: 4em 0;
+}
+
+#infinite-handle span {
+	background: none;
+	padding: 0;
+}
+
+#infinite-handle span button {
+	border: 2px solid;
+    padding: 0.5em 1.25em;
+    display: inline-block;
+    font-weight: bold;
+    background-color: $color__white;
+    color: $color__mine-shaft;
+    @include font-size(1.125);
+    transition: all 0.3s ease-in-out;
+}
+
+#infinite-handle span button:hover, 
+#infinite-handle span button:focus {
+	background-color: $color__code-gray;
+	color: $color__white;
+	border-color: $color__code-gray;
+	padding: 0;
+	border: 2px solid;
+	padding: 0.5em 1.25em;
+    font-weight: bold;
+    @include font-size(1.125);
+}
+
+@media screen and ( max-width: 50em ) {
+
+	.infinite-wrap {
+		overflow: hidden;
+		-webkit-column-count: 2;
+	    -moz-column-count: 2;
+	    column-count: 2;
+	}
+
+}
+
+@media screen and ( max-width: 30em ) {
+
+	.infinite-wrap {
+		overflow: hidden;
+		-webkit-column-count: 1;
+	    -moz-column-count: 1;
+	    column-count: 1;
+	}
+
+}

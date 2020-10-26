@@ -1,0 +1,38 @@
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea {
+	border: 2px solid;
+	padding: 4px;
+}
+
+input[type="search"] {
+	border: 2px solid;
+	padding: 4px;
+}
+
+select {
+	border: 2px solid;
+}
+
+textarea {
+	padding-left: 3px;
+	width: 100%;
+}
+
+th, td {
+	border: 1px solid;
+	padding: 1%;
+}

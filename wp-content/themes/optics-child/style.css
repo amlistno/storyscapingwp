@@ -1,0 +1,20 @@
+/*
+Theme Name: Optics Child
+Theme URI: http://graphpaperpress.com/themes/optics
+Template: optics
+Author: Oliver Michelsen
+Author URI: http://graphpaperpress.com
+Description: Optic child theme created to customize the parent theme optics. For RePots website.
+Tags: two-columns,three-columns,right-sidebar,flexible-header,custom-background,custom-header,custom-menu,featured-images,full-width-template,post-formats,threaded-comments,translation-ready,blog,photography,portfolio
+Version: 1.0.1
+Updated: 2020-10-26 13:47:14
+*/
+
+body {
+background-color: antiquewhite;
+}
+
+.site-content .content-area {
+    width: 100%;
+}
+

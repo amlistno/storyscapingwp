@@ -1,0 +1,18 @@
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	border: 2px solid;
+	padding: 4px 12px;
+	font-weight: bold;
+	color: $color__mine-shaft;
+    transition: all 0.3s ease-in-out;
+	background: $color__white;
+
+	&:hover {
+		color: $color__white;
+		background-color: $color__code-gray;
+		border-color: $color__code-gray;
+	}
+	
+}

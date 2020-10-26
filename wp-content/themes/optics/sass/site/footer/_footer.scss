@@ -1,0 +1,8 @@
+.site-footer {
+	clear: both;
+}
+
+.site-info {
+	@include font-size(0.875);
+	padding: 4% 5%;
+}
