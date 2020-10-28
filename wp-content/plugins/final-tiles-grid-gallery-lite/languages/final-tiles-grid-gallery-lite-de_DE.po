@@ -1,0 +1,1810 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"PO-Revision-Date: 2019-05-05 13:06+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language: de\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: admin\n"
+"X-Poedit-SearchPath-2: admin/include\n"
+
+# automatic translation
+#: FinalTilesGalleryLite.php:622 scripts/gutenberg_block.js:95
+msgid "Select gallery"
+msgstr "Galerie auswählen"
+
+# automatic translation
+#: FinalTilesGalleryLite.php:722
+msgid ""
+"Hey, I noticed you created a photo gallery with Final Tiles - that’s "
+"awesome! Would you mind give it a 5-star rating on WordPress to help us "
+"spread the word and boost our motivation for new featrues?"
+msgstr ""
+"Hey, ich habe bemerkt, dass Sie mit Final Tiles eine Fotogalerie erstellt "
+"haben - das ist großartig! Würde es Ihnen etwas ausmachen, WordPress mit 5 "
+"Sternen zu bewerten, um uns zu verbreiten und die Motivation für neue "
+"Aufgaben zu erhöhen?"
+
+# automatic translation
+#: FinalTilesGalleryLite.php:723
+msgid "Diego Imbriani<br>Founder of GreenTreeLabs"
+msgstr "Diego Imbriani <br> Gründer der GreenTreeLabs"
+
+# automatic translation
+#: FinalTilesGalleryLite.php:725
+msgid "Ok, you deserve it"
+msgstr "Ok, du hast es verdient"
+
+# automatic translation
+#: FinalTilesGalleryLite.php:726
+msgid "Nope, maybe later"
+msgstr "Nein, vielleicht später"
+
+# automatic translation
+#: FinalTilesGalleryLite.php:727
+msgid "I already did"
+msgstr "Ich habe es bereits getan"
+
+# automatic translation
+#: FinalTilesGalleryLite.php:767
+#, php-format
+msgid ""
+"Please rate <strong>Final Tiles Gallery</strong> <a href=\"%s\" "
+"target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%s\" "
+"target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you "
+"from the Final Tiles Gallery team!"
+msgstr ""
+"Bitte bewerten Sie <strong>Final Tiles Gallery</strong> <a href=\"%s\" "
+"target=\"_blank\">★★★★★</a> auf <a href=\"%s\" "
+"target=\"_blank\">WordPress.org</a> , um uns bei der Verbreitung zu "
+"unterstützen. Vielen Dank vom Team der Final Tiles Gallery!"
+
+# automatic translation
+#: FinalTilesGalleryLite.php:1101
+msgid "FinalTiles Gallery >> Add Gallery"
+msgstr "FinalTiles-Galerie >> Galerie hinzufügen"
+
+# automatic translation
+#: FinalTilesGalleryLite.php:1101 scripts/gutenberg_block.js:107
+msgid "Add Gallery"
+msgstr "Galerie hinzufügen"
+
+# automatic translation
+#: admin/add-gallery.php:1 admin/overview.php:1
+msgid "You are not allowed to call this page directly."
+msgstr "Sie dürfen diese Seite nicht direkt aufrufen."
+
+# automatic translation
+#: admin/add-gallery.php:10
+msgid "Add new gallery wizard"
+msgstr "Neuen Galerie-Assistenten hinzufügen"
+
+# automatic translation
+#: admin/add-gallery.php:23
+msgid "Name of the gallery"
+msgstr "Name der Galerie"
+
+# automatic translation
+#: admin/add-gallery.php:28
+msgid "Description of the gallery"
+msgstr "Beschreibung der Galerie"
+
+# automatic translation
+#: admin/add-gallery.php:32
+msgid "Choose the source of the images"
+msgstr "Wählen Sie die Quelle der Bilder"
+
+# automatic translation
+#: admin/add-gallery.php:35
+msgid "Media library"
+msgstr "Medienbibliothek"
+
+# automatic translation
+#: admin/add-gallery.php:40 admin/include/edit-gallery.php:103
+msgid "Recent posts with featured image"
+msgstr "Aktuelle Beiträge mit vorgestellten Bildern"
+
+# automatic translation
+#: admin/add-gallery.php:43
+msgid "Recent posts"
+msgstr "Kürzliche Posts"
+
+# automatic translation
+#: admin/add-gallery.php:44 admin/add-gallery.php:61
+#: admin/include/edit-gallery.php:321
+msgid "Unlock this feature. Upgrade Now!"
+msgstr "Entsperren Sie diese Funktion. Jetzt upgraden!"
+
+# automatic translation
+#: admin/add-gallery.php:57 admin/add-gallery.php:60
+#: admin/include/edit-gallery.php:106
+msgid "WooCommerce products"
+msgstr "WooCommerce-Produkte"
+
+# automatic translation
+#: admin/add-gallery.php:68
+msgid "WordPress field for captions:"
+msgstr "WordPress-Feld für Bildunterschriften:"
+
+# automatic translation
+#: admin/add-gallery.php:78
+msgid "WordPress field for titles:"
+msgstr "WordPress-Feld für Titel:"
+
+# automatic translation
+#: admin/add-gallery.php:103
+msgid "Caption effect:"
+msgstr "Caption-Effekt:"
+
+# automatic translation
+#: admin/add-gallery.php:105
+msgid "Fade"
+msgstr "Verblassen"
+
+# automatic translation
+#: admin/add-gallery.php:107 admin/add-gallery.php:114
+msgid "Fixed"
+msgstr "Fest"
+
+# automatic translation
+#: admin/add-gallery.php:108 admin/add-gallery.php:115
+msgid "Fixed with background"
+msgstr "Fixiert mit Hintergrund"
+
+# automatic translation
+#: admin/add-gallery.php:109 admin/add-gallery.php:116
+msgid "Fixed, hidden on hover"
+msgstr "Behoben, im Hover ausgeblendet"
+
+# automatic translation
+#: admin/add-gallery.php:110 admin/add-gallery.php:117
+msgid "Fixed at bottom"
+msgstr "Unten fixiert"
+
+# automatic translation
+#: admin/add-gallery.php:111 admin/add-gallery.php:118
+msgid "Slide from top"
+msgstr "Schieben Sie von oben"
+
+# automatic translation
+#: admin/add-gallery.php:112 admin/add-gallery.php:119
+msgid "Slide from bottom"
+msgstr "Schieben Sie von unten"
+
+# automatic translation
+#: admin/add-gallery.php:128
+msgid "Post types:"
+msgstr "Beitragstypen:"
+
+# automatic translation
+#: admin/add-gallery.php:140
+msgid "Categories:"
+msgstr "Kategorien:"
+
+# automatic translation
+#: admin/add-gallery.php:152
+msgid "Choose the layout"
+msgstr "Wählen Sie das Layout"
+
+# automatic translation
+#: admin/add-gallery.php:159
+msgid "Choose a default image size"
+msgstr "Wählen Sie eine Standardbildgröße"
+
+# automatic translation
+#: admin/add-gallery.php:168
+msgid "You can customize each image later"
+msgstr "Sie können jedes Bild später anpassen"
+
+# automatic translation
+#: admin/add-gallery.php:172
+msgid ""
+"We suggest you to use ShortPixel image optimization plugin for best SEO "
+"results."
+msgstr ""
+"Wir empfehlen Ihnen, das Plug-in für die Bildoptimierung von ShortPixel zu "
+"verwenden, um optimale SEO-Ergebnisse zu erzielen."
+
+# automatic translation
+#: admin/add-gallery.php:176 admin/include/edit-gallery.php:119
+msgid "Add images"
+msgstr "Füge Bilder hinzu"
+
+# automatic translation
+#: admin/add-gallery.php:178
+msgid "You can add images now or later."
+msgstr "Sie können jetzt oder später Bilder hinzufügen."
+
+# automatic translation
+#: admin/add-gallery.php:186
+msgid "Previous"
+msgstr "Bisherige"
+
+# automatic translation
+#: admin/add-gallery.php:187
+msgid "Next"
+msgstr "Nächster"
+
+# automatic translation
+#: admin/add-gallery.php:192
+msgid "Success!"
+msgstr "Erfolg!"
+
+# automatic translation
+#: admin/add-gallery.php:193
+msgid "Your gallery"
+msgstr "Ihre Galerie"
+
+# automatic translation
+#: admin/add-gallery.php:193
+msgid "has been created. Copy the following shortcode:"
+msgstr "wurde erschaffen. Kopieren Sie den folgenden Kurzcode:"
+
+# automatic translation
+#: admin/add-gallery.php:195
+msgid "and paste it inside a post or a page. Otherwise click"
+msgstr ""
+"und fügen Sie es in einen Beitrag oder eine Seite ein. Andernfalls klicken "
+"Sie auf"
+
+# automatic translation
+#: admin/add-gallery.php:195 admin/overview.php:21
+msgid "here"
+msgstr "Hier"
+
+# automatic translation
+#: admin/add-gallery.php:195
+msgid ""
+"to customize\n"
+"\t\t\t      the gallery."
+msgstr ""
+"anpassen\n"
+"Die Gallerie."
+
+# automatic translation
+#: admin/add-gallery.php:200 admin/add-gallery.php:209 admin/overview.php:138
+msgid "Close"
+msgstr "Schließen"
+
+# automatic translation
+#: admin/add-gallery.php:205
+msgid "Error!"
+msgstr "Error!"
+
+# automatic translation
+#: admin/add-gallery.php:206
+msgid "For some reason it was not possible to save your gallery, please contact"
+msgstr ""
+"Aus irgendeinem Grund konnte Ihre Galerie nicht gespeichert werden. Bitte "
+"wenden Sie sich an"
+
+# automatic translation
+#: admin/add-gallery.php:206
+msgid "support"
+msgstr "Unterstützung"
+
+# automatic translation
+#: admin/edit-gallery.php:75 admin/include/edit-gallery.php:139
+msgid "Assign group"
+msgstr "Gruppe zuordnen"
+
+# automatic translation
+#: admin/edit-gallery.php:76
+msgid ""
+"The group name is for internal use and it won't be shown, avoid space and "
+"special characters"
+msgstr ""
+"Der Gruppenname ist für den internen Gebrauch bestimmt und wird nicht "
+"angezeigt. Vermeiden Sie Leerzeichen und Sonderzeichen"
+
+# automatic translation
+#: admin/edit-gallery.php:80 admin/edit-gallery.php:100
+#: admin/include/edit-gallery.php:547 admin/include/edit-gallery.php:612
+msgid "Save"
+msgstr "sparen"
+
+# automatic translation
+#: admin/edit-gallery.php:81 admin/edit-gallery.php:101
+#: admin/include/edit-gallery.php:548 admin/include/edit-gallery.php:611
+msgid "Cancel"
+msgstr "Stornieren"
+
+# automatic translation
+#: admin/edit-gallery.php:87 admin/include/edit-gallery.php:142
+msgid "Assign filters"
+msgstr "Filter zuweisen"
+
+# automatic translation
+#: admin/edit-gallery.php:97
+msgid "If you don't see all filters please save and reload the page"
+msgstr ""
+"Wenn Sie nicht alle Filter sehen, speichern Sie bitte die Seite und laden "
+"Sie sie erneut"
+
+# automatic translation
+#: admin/include/edit-gallery.php:96
+msgid "Images"
+msgstr "Bilder"
+
+# automatic translation
+#: admin/include/edit-gallery.php:102
+msgid "User images"
+msgstr "Benutzerbilder"
+
+# automatic translation
+#: admin/include/edit-gallery.php:123 admin/include/edit-gallery.php:126
+msgid "Add video"
+msgstr "Video hinzufügen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:128
+msgid "Remove selected"
+msgstr "Ausgewählte entfernen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:133
+msgid "Select all"
+msgstr "Wählen Sie Alle"
+
+# automatic translation
+#: admin/include/edit-gallery.php:134
+msgid "Deselect all"
+msgstr "Alle abwählen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:135
+msgid "Toggle selection"
+msgstr "Auswahl umschalten"
+
+# automatic translation
+#: admin/include/edit-gallery.php:146
+msgid "Toggle visibility"
+msgstr "Sichtbarkeit umschalten"
+
+# automatic translation
+#: admin/include/edit-gallery.php:152
+msgid "Select by filter:"
+msgstr "Auswahl durch Filter:"
+
+# automatic translation
+#: admin/include/edit-gallery.php:165
+msgid "Add links by clicking the EDIT (pencil) button"
+msgstr "Fügen Sie Links hinzu, indem Sie auf die Schaltfläche EDIT (Stift) klicken"
+
+# automatic translation
+#: admin/include/edit-gallery.php:166
+msgid "Drag the images to change their order."
+msgstr "Ziehen Sie die Bilder, um ihre Reihenfolge zu ändern."
+
+# automatic translation
+#: admin/include/edit-gallery.php:190
+msgid "Post type:"
+msgstr "Post-Typ:"
+
+# automatic translation
+#: admin/include/edit-gallery.php:229
+msgid "Max posts:"
+msgstr "Max Beiträge:"
+
+# automatic translation
+#: admin/include/edit-gallery.php:232
+msgid "(enter 0 for unlimited posts)"
+msgstr "(0 für unbegrenzte Beiträge eingeben)"
+
+# automatic translation
+#: admin/include/edit-gallery.php:239
+msgid "Categories"
+msgstr "Kategorien"
+
+# automatic translation
+#: admin/include/edit-gallery.php:276
+msgid "Jump to setting"
+msgstr "Zur Einstellung springen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:308
+msgid "Show help"
+msgstr "Zeig Hilfe"
+
+# automatic translation
+#: admin/include/edit-gallery.php:342
+msgid "EverlightBox settings"
+msgstr "EverlightBox-Einstellungen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:346
+msgid "EverlightBox not installed"
+msgstr "EverlightBox nicht installiert"
+
+# automatic translation
+#: admin/include/edit-gallery.php:346
+msgid "Purchase"
+msgstr "Kauf"
+
+# automatic translation
+#: admin/include/edit-gallery.php:383
+msgid "Add filter"
+msgstr "Filter hinzufügen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:384
+msgid "Reset selected filter"
+msgstr "Setzen Sie den ausgewählten Filter zurück"
+
+# automatic translation
+#: admin/include/edit-gallery.php:399
+msgid "Resolution"
+msgstr "Auflösung"
+
+# automatic translation
+#: admin/include/edit-gallery.php:400
+msgid "Size factor"
+msgstr "Größenfaktor"
+
+# automatic translation
+#: admin/include/edit-gallery.php:408
+msgid "Add resolution"
+msgstr "Auflösung hinzufügen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:419
+msgid "Shortcode attribute"
+msgstr "Kurzcode-Attribut"
+
+# automatic translation
+#: admin/include/edit-gallery.php:444 admin/include/edit-gallery.php:447
+#: admin/overview.php:29 admin/overview.php:32 admin/overview.php:85
+#: admin/overview.php:88
+msgid "Upgrade"
+msgstr "Aktualisierung"
+
+# automatic translation
+#: admin/include/edit-gallery.php:444 admin/overview.php:29
+#: admin/overview.php:85
+msgid "unlock features"
+msgstr "Funktionen freischalten"
+
+# automatic translation
+#: admin/include/edit-gallery.php:453 admin/overview.php:38
+#: admin/overview.php:94
+msgid "discount"
+msgstr "Rabatt"
+
+# automatic translation
+#: admin/include/edit-gallery.php:456 admin/overview.php:41
+#: admin/overview.php:97
+msgid "GET 3 plugins"
+msgstr "Holen Sie sich 3 Plugins"
+
+# automatic translation
+#: admin/include/edit-gallery.php:464
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:468
+msgid "Save gallery"
+msgstr "Galerie speichern"
+
+# automatic translation
+#: admin/include/edit-gallery.php:473
+msgid "Import settings"
+msgstr "Importeinstellungen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:475
+msgid "Paste Here the configuration code"
+msgstr "Fügen Sie hier den Konfigurationscode ein"
+
+# automatic translation
+#: admin/include/edit-gallery.php:477
+msgid "Import"
+msgstr "Einführen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:481
+msgid "Export settings"
+msgstr "Exporteinstellungen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:483
+msgid "Settings"
+msgstr "die Einstellungen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:485
+msgid "Refresh code"
+msgstr "Code aktualisieren"
+
+# automatic translation
+#: admin/include/edit-gallery.php:489
+msgid "Help"
+msgstr "Hilfe"
+
+# automatic translation
+#: admin/include/edit-gallery.php:494
+msgid "Documentation"
+msgstr "Dokumentation"
+
+# automatic translation
+#: admin/include/edit-gallery.php:498
+msgid "Tutorial"
+msgstr "Tutorial"
+
+# automatic translation
+#: admin/include/edit-gallery.php:502
+msgid "How to add additional image sizes"
+msgstr "Hinzufügen zusätzlicher Bildgrößen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:510
+msgid "FAQ"
+msgstr "FAQ"
+
+# automatic translation
+#: admin/include/edit-gallery.php:514
+msgid "How to add a link to a picture?"
+msgstr "Wie füge ich einen Link zu einem Bild hinzu?"
+
+# automatic translation
+#: admin/include/edit-gallery.php:516
+msgid ""
+"Click the edit (pencil) icon on the image and insert the link inside the "
+"\"Link\" field"
+msgstr ""
+"Klicken Sie auf das Bearbeitungssymbol (Bleistift) im Bild und fügen Sie "
+"den Link in das Feld \"Link\" ein"
+
+# automatic translation
+#: admin/include/edit-gallery.php:520
+msgid "Why my images look blurry?"
+msgstr "Warum sehen meine Bilder unscharf aus?"
+
+# automatic translation
+#: admin/include/edit-gallery.php:522
+msgid ""
+"You probably have chosen a small image size. Click the edit (pencil) icon "
+"on the blurry image and choose a larger size. Remember, you can choose the "
+"size before adding the images to the gallery"
+msgstr ""
+"Sie haben wahrscheinlich eine kleine Bildgröße gewählt. Klicken Sie auf das "
+"Bearbeitungssymbol (Bleistift) auf dem verschwommenen Bild und wählen Sie "
+"eine größere Größe. Denken Sie daran, Sie können die Größe auswählen, bevor "
+"Sie die Bilder zur Galerie hinzufügen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:537
+msgid "Paste here the embed code (it must be an "
+msgstr "Fügen Sie hier den Einbettungscode ein (es muss ein"
+
+# automatic translation
+#: admin/include/edit-gallery.php:537
+msgid "iframe"
+msgstr "iframe"
+
+# automatic translation
+#: admin/include/edit-gallery.php:538
+msgid "and it must contain the attributes"
+msgstr "und es muss die Attribute enthalten"
+
+# automatic translation
+#: admin/include/edit-gallery.php:538
+msgid "width"
+msgstr "Breite"
+
+# automatic translation
+#: admin/include/edit-gallery.php:538
+msgid "and"
+msgstr "und"
+
+# automatic translation
+#: admin/include/edit-gallery.php:538
+msgid " height"
+msgstr " Höhe"
+
+# automatic translation
+#: admin/include/edit-gallery.php:556
+msgid "Edit image"
+msgstr "Bild bearbeiten"
+
+# automatic translation
+#: admin/include/edit-gallery.php:563
+msgid "Title"
+msgstr "Titel"
+
+# automatic translation
+#: admin/include/edit-gallery.php:569
+msgid "Caption"
+msgstr "Bildbeschriftung"
+
+# automatic translation
+#: admin/include/edit-gallery.php:577
+msgid "Hidden, visible only with lightbox"
+msgstr "Versteckt, nur sichtbar bei Leuchtkasten"
+
+# automatic translation
+#: admin/include/edit-gallery.php:581
+msgid "Link"
+msgstr "Verknüpfung"
+
+# automatic translation
+#: admin/include/edit-gallery.php:587
+msgid "Link target"
+msgstr "Linkziel"
+
+# automatic translation
+#: admin/include/edit-gallery.php:590
+msgid "Default target"
+msgstr "Standardziel"
+
+# automatic translation
+#: admin/include/edit-gallery.php:591
+msgid "Open in same page"
+msgstr "In derselben Seite öffnen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:592
+msgid "Open in _blank"
+msgstr "In _blank öffnen"
+
+# automatic translation
+#: admin/include/edit-gallery.php:593
+msgid "Open in lightbox (when using a lightbox)"
+msgstr "In Lightbox öffnen (bei Verwendung einer Lightbox)"
+
+# automatic translation
+#: admin/include/edit-gallery.php:600
+msgid "Lightbox group (rel)"
+msgstr "Lightbox-Gruppe (rel)"
+
+# automatic translation
+#: admin/include/edit-gallery.php:602
+msgid ""
+"Used to group images with the following lightbox: Magnific Popup, "
+"PrettyPhoto, FancyBox, SwipeBox, Lightbox"
+msgstr ""
+"Wird verwendet, um Bilder mit der folgenden Lightbox zu gruppieren: "
+"Magnific Popup, PrettyPhoto, FancyBox, SwipeBox, Lightbox"
+
+# automatic translation
+#: admin/include/fields.php:163
+msgid "Loading method"
+msgstr "Lademethode"
+
+# automatic translation
+#: admin/include/fields.php:184
+msgid "Asynchronous loading"
+msgstr "Asynchrones Laden"
+
+# automatic translation
+#: admin/include/fields.php:196
+msgid "Don't enable ajax loading if you need to index your images on search engines"
+msgstr ""
+"Aktivieren Sie das Laden von Ajax nicht, wenn Sie Ihre Bilder in "
+"Suchmaschinen indizieren müssen"
+
+# automatic translation
+#: admin/include/fields.php:205
+msgid "Number of images to load via ajax"
+msgstr "Anzahl der Bilder, die über Ajax geladen werden sollen"
+
+# automatic translation
+#: admin/include/fields.php:219
+msgid "Name"
+msgstr "Name"
+
+# automatic translation
+#: admin/include/fields.php:225
+msgid "Name of the gallery, for internal use."
+msgstr "Name der Galerie für den internen Gebrauch."
+
+# automatic translation
+#: admin/include/fields.php:234
+msgid "Description"
+msgstr "Beschreibung"
+
+# automatic translation
+#: admin/include/fields.php:240
+msgid "Description of the gallery, for internal use."
+msgstr "Beschreibung der Galerie für den internen Gebrauch."
+
+# automatic translation
+#: admin/include/fields.php:249
+msgid "Layout"
+msgstr "Layout"
+
+# automatic translation
+#: admin/include/fields.php:251
+msgid ""
+"<strong>Final Tiles</strong>: use images with different "
+"sizes<br><strong>Masonry</strong>: multi-column layout, use this one if you "
+"need images of the same size."
+msgstr ""
+"<strong>Final Tiles</strong> : Verwenden Sie Bilder mit unterschiedlichen "
+"Größen <br> <strong>Mauerwerk</strong> : Mehrspaltiges Layout, wenn Sie "
+"Bilder gleicher Größe benötigen."
+
+# automatic translation
+#: admin/include/fields.php:263
+msgid "Width"
+msgstr "Breite"
+
+# automatic translation
+#: admin/include/fields.php:265
+msgid "Width of the gallery in pixels or percentage."
+msgstr "Breite der Galerie in Pixel oder Prozent."
+
+# automatic translation
+#: admin/include/fields.php:271
+msgid "Margin"
+msgstr "Spanne"
+
+# automatic translation
+#: admin/include/fields.php:273
+msgid "Margin between images"
+msgstr "Rand zwischen den Bildern"
+
+# automatic translation
+#: admin/include/fields.php:282
+msgid "Number of columns"
+msgstr "Anzahl der Spalten"
+
+# automatic translation
+#: admin/include/fields.php:295
+msgid "Images order"
+msgstr "Bilder bestellen"
+
+# automatic translation
+#: admin/include/fields.php:297
+msgid "Choose the order of the images"
+msgstr "Wählen Sie die Reihenfolge der Bilder"
+
+# automatic translation
+#: admin/include/fields.php:310
+msgid "Filters"
+msgstr "Filter"
+
+# automatic translation
+#: admin/include/fields.php:312
+msgid "Manage here all the filters of this gallery"
+msgstr "Verwalten Sie hier alle Filter dieser Galerie"
+
+# automatic translation
+#: admin/include/fields.php:322
+msgid "Reload Page on filter click"
+msgstr "Seite nach Filterklick neu laden"
+
+# automatic translation
+#: admin/include/fields.php:324
+msgid "Turn this feature ON if you want to use filters with most lightboxes"
+msgstr ""
+"Aktivieren Sie diese Funktion, wenn Sie Filter für die meisten Leuchtkästen "
+"verwenden möchten"
+
+# automatic translation
+#: admin/include/fields.php:331
+msgid "Size of the grid"
+msgstr "Größe des Gitters"
+
+# automatic translation
+#: admin/include/fields.php:337
+msgid ""
+"Tiles are snapped to a virtual grid, <strong>the higher this value the "
+"higher the chance to get bottom aligned tiles</strong> (but it needs to "
+"crop vertically)."
+msgstr ""
+"Kacheln werden in einem virtuellen Raster gefangen. Je <strong>höher dieser "
+"Wert, desto höher ist die Chance, Kacheln nach unten auszurichten</strong> "
+"(er muss jedoch vertikal zugeschnitten werden)."
+
+# automatic translation
+#: admin/include/fields.php:342
+msgid "Disable grid size below resolution"
+msgstr "Deaktivieren Sie die Rastergröße unterhalb der Auflösung"
+
+# automatic translation
+#: admin/include/fields.php:348
+msgid ""
+"If you have small tiny images under certain resolutions then you can switch "
+"off grid size (image cropping) when the screen resolution is below this "
+"value."
+msgstr ""
+"Wenn Sie bei bestimmten Auflösungen kleine winzige Bilder haben, können Sie "
+"die Rastergröße (Bildbeschneidung) deaktivieren, wenn die "
+"Bildschirmauflösung unter diesem Wert liegt."
+
+# automatic translation
+#: admin/include/fields.php:370 admin/include/fields.php:409
+msgid ""
+"Define here what happens when user click on the images. Lightboxes with "
+"video support: EverlightBox, LightGallery, Magnific popup, Colorbox "
+"(require embed URL)); PrettyPhoto, FancyBox (require embed URL)"
+msgstr ""
+"Definieren Sie hier, was passiert, wenn der Benutzer auf die Bilder klickt. "
+"Lightboxen mit Video-Unterstützung: EverlightBox, LightGallery, "
+"Popup-Popup, Colorbox (URL zum Einbetten erforderlich); PrettyPhoto, "
+"FancyBox (URL zum Einbetten erforderlich)"
+
+# automatic translation
+#: admin/include/fields.php:449 admin/include/fields.php:458
+msgid ""
+"Custom options for chosen lightbox. Enter params without curly "
+"braces.<br>Example: <span style='font-family:monospace'>easing: linear, "
+"mode: 'lg-fade'</span>.<br>Documentation: <a "
+"href='http://sachinchoolur.github.io/lightGallery/docs/api.html' "
+"target='_blank'>LightGallery</a>, <a target='_blank' "
+"href='http://dimsemenov.com/plugins/magnific-popup/documentation.html'"
+">Magnific Popup</a>."
+msgstr ""
+"Benutzerdefinierte Optionen für den ausgewählten Leuchtkasten. Geben Sie "
+"Params ohne geschweifte Klammern ein. <br> Beispiel: <span "
+"style='font-family:monospace'>Beschleunigung: linear, Modus: "
+"&#39;lg-fade&#39;</span> . <br> Dokumentation: <a "
+"href='http://sachinchoolur.github.io/lightGallery/docs/api.html' "
+"target='_blank'>LightGallery</a> , <a target='_blank' "
+"href='http://dimsemenov.com/plugins/magnific-popup/documentation.html'"
+">Magnific Popup</a> ."
+
+# automatic translation
+#: admin/include/fields.php:465
+msgid "Image size for the lightbox"
+msgstr "Bildgröße für die Lightbox"
+
+# automatic translation
+#: admin/include/fields.php:475
+msgid "Disable lightbox grouping"
+msgstr "Deaktivieren Sie die Lightbox-Gruppierung"
+
+# automatic translation
+#: admin/include/fields.php:477
+msgid ""
+"Flag this option if you don't want to group images when opened in a "
+"lightbox."
+msgstr ""
+"Markieren Sie diese Option, wenn Sie beim Öffnen in einer Lightbox keine "
+"Bilder gruppieren möchten."
+
+# automatic translation
+#: admin/include/fields.php:483
+msgid "Links target"
+msgstr "Verknüpfungsziel"
+
+# automatic translation
+#: admin/include/fields.php:485
+msgid "Open links in a blank page."
+msgstr "Links auf einer leeren Seite öffnen."
+
+# automatic translation
+#: admin/include/fields.php:490
+msgid "Enable Twitter icon"
+msgstr "Aktivieren Sie das Twitter-Symbol"
+
+# automatic translation
+#: admin/include/fields.php:492
+msgid "Enable Twitter sharing."
+msgstr "Twitter-Freigabe aktivieren"
+
+# automatic translation
+#: admin/include/fields.php:498
+msgid "Enable Facebook icon"
+msgstr "Aktivieren Sie das Facebook-Symbol"
+
+# automatic translation
+#: admin/include/fields.php:500
+msgid ""
+"Enable Facebook sharing. Note: after the last version of OpenGraph API it's "
+"not possible to share a specific image anymore."
+msgstr ""
+"Facebook-Freigabe aktivieren Hinweis: Nach der letzten Version von "
+"OpenGraph API ist es nicht mehr möglich, ein bestimmtes Bild weiterzugeben."
+
+# automatic translation
+#: admin/include/fields.php:506
+msgid "Enable Google Plus icon"
+msgstr "Aktivieren Sie das Google Plus-Symbol"
+
+# automatic translation
+#: admin/include/fields.php:508
+msgid "Enable Google Plus sharing"
+msgstr "Aktivieren Sie die Google Plus-Freigabe"
+
+# automatic translation
+#: admin/include/fields.php:514
+msgid "Enable Pinterest icon"
+msgstr "Aktivieren Sie das Pinterest-Symbol"
+
+# automatic translation
+#: admin/include/fields.php:516
+msgid "Enable Pinterest sharing"
+msgstr "Aktivieren Sie das Teilen von Pinterest"
+
+# automatic translation
+#: admin/include/fields.php:522
+msgid "Color of social sharing icons"
+msgstr "Farbe der Social-Sharing-Icons"
+
+# automatic translation
+#: admin/include/fields.php:524 admin/include/fields.php:532
+msgid "Set the color of the social sharing icons"
+msgstr "Legen Sie die Farbe der Social Sharing-Symbole fest"
+
+# automatic translation
+#: admin/include/fields.php:530
+msgid "Style of the social icons panel"
+msgstr "Stil des Social-Icons-Bereichs"
+
+# automatic translation
+#: admin/include/fields.php:545
+msgid "Position of the social icons panel"
+msgstr "Position des Symbols für soziale Symbole"
+
+# automatic translation
+#: admin/include/fields.php:547
+msgid "Set the position of the social sharing icons"
+msgstr "Legen Sie die Position der Social Sharing-Symbole fest"
+
+# automatic translation
+#: admin/include/fields.php:560
+msgid "Caption behavior"
+msgstr "Caption-Verhalten"
+
+# automatic translation
+#: admin/include/fields.php:562
+msgid "Effect used to show the captions."
+msgstr "Effekt zur Anzeige der Bildunterschriften."
+
+# automatic translation
+#: admin/include/fields.php:597
+msgid "Caption mobile behavior"
+msgstr "Bildunterschrift mobiles Verhalten"
+
+# automatic translation
+#: admin/include/fields.php:599
+msgid "Caption behavior for mobile devices."
+msgstr "Untertitelverhalten für mobile Geräte."
+
+# automatic translation
+#: admin/include/fields.php:627
+msgid "Custom fields"
+msgstr "Benutzerdefinierte Felder"
+
+# automatic translation
+#: admin/include/fields.php:629
+msgid ""
+"Insert 1 custom field on each line. Add an optional label after the custom "
+"field code."
+msgstr ""
+"Fügen Sie in jede Zeile ein benutzerdefiniertes Feld ein. Fügen Sie nach "
+"dem benutzerdefinierten Feldcode ein optionales Etikett hinzu."
+
+# automatic translation
+#: admin/include/fields.php:637
+msgid "Position"
+msgstr "Position"
+
+# automatic translation
+#: admin/include/fields.php:639
+msgid "Choose the position of the caption."
+msgstr "Wählen Sie die Position der Beschriftung."
+
+# automatic translation
+#: admin/include/fields.php:658
+msgid "Empty captions"
+msgstr "Leere Bildunterschriften"
+
+# automatic translation
+#: admin/include/fields.php:660
+msgid "Choose if empty caption has to be shown."
+msgstr "Wählen Sie, ob eine leere Beschriftung angezeigt werden soll."
+
+# automatic translation
+#: admin/include/fields.php:680
+msgid "Caption icon"
+msgstr "Beschriftungssymbol"
+
+# automatic translation
+#: admin/include/fields.php:682
+msgid "Choose the icon for the captions."
+msgstr "Wählen Sie das Symbol für die Bildunterschriften."
+
+# automatic translation
+#: admin/include/fields.php:705
+msgid "Custom caption icon"
+msgstr "Symbol für benutzerdefinierte Beschriftung"
+
+# automatic translation
+#: admin/include/fields.php:707
+msgid ""
+"Use this field to insert the class of a FontAwesome icon (i.e.: fa-heart). "
+"<a href='https://fontawesome.com/v4.7.0/icons/' target='blank'>See all "
+"available icons</a>. <strong>This value override the <i>Caption icon</i> "
+"value</strong>."
+msgstr ""
+"Verwenden Sie dieses Feld, um die Klasse eines FontAwesome-Symbols "
+"einzufügen (z. B. fa-heart). <a "
+"href='https://fontawesome.com/v4.7.0/icons/' target='blank'>Alle "
+"verfügbaren Symbole anzeigen</a> . <strong>Dieser Wert überschreibt den "
+"<i>Beschriftungssymbolwert</i></strong> ."
+
+# automatic translation
+#: admin/include/fields.php:712
+msgid "Caption icon color"
+msgstr "Farbe der Beschriftungssymbole"
+
+# automatic translation
+#: admin/include/fields.php:714
+msgid "Color of the icon in captions."
+msgstr "Farbe des Symbols in Beschriftungen."
+
+# automatic translation
+#: admin/include/fields.php:720
+msgid "Caption icon size"
+msgstr "Größe des Beschriftungssymbols"
+
+# automatic translation
+#: admin/include/fields.php:722
+msgid "Size of the icon in captions."
+msgstr "Größe des Symbols in Beschriftungen."
+
+# automatic translation
+#: admin/include/fields.php:731
+msgid "Caption font size"
+msgstr "Schriftgröße der Beschriftung"
+
+# automatic translation
+#: admin/include/fields.php:733 admin/include/fields.php:905
+msgid "Size of the font in captions."
+msgstr "Größe der Schrift in Beschriftungen."
+
+# automatic translation
+#: admin/include/fields.php:742
+msgid "Caption effect easing"
+msgstr "Erleichterung für den Untertiteleffekt"
+
+# automatic translation
+#: admin/include/fields.php:744
+msgid ""
+"Easing function for the caption animation, works better with sliding "
+"animations."
+msgstr ""
+"Die Erleichterungsfunktion für die Untertitelanimation funktioniert besser "
+"mit gleitenden Animationen."
+
+# automatic translation
+#: admin/include/fields.php:762
+msgid "Caption frame"
+msgstr "Beschriftungsrahmen"
+
+# automatic translation
+#: admin/include/fields.php:764
+msgid "Add a frame around the caption"
+msgstr "Fügen Sie einen Rahmen um die Beschriftung hinzu"
+
+# automatic translation
+#: admin/include/fields.php:770
+msgid "Caption frame color"
+msgstr "Beschriftungsrahmenfarbe"
+
+# automatic translation
+#: admin/include/fields.php:772
+msgid "Color of the frame around the caption"
+msgstr "Farbe des Rahmens um die Bildunterschrift"
+
+# automatic translation
+#: admin/include/fields.php:778
+msgid "Caption color"
+msgstr "Beschriftungsfarbe"
+
+# automatic translation
+#: admin/include/fields.php:780
+msgid "Text color of the captions."
+msgstr "Textfarbe der Bildunterschriften."
+
+# automatic translation
+#: admin/include/fields.php:786
+msgid "Caption effect duration"
+msgstr "Dauer des Untertiteleffekts"
+
+# automatic translation
+#: admin/include/fields.php:788
+msgid "Duration of the caption animation."
+msgstr "Dauer der Bildanimation."
+
+# automatic translation
+#: admin/include/fields.php:797 admin/include/fields.php:799
+msgid "Caption background color"
+msgstr "Beschriftung Hintergrundfarbe"
+
+# automatic translation
+#: admin/include/fields.php:805
+msgid "Caption opacity"
+msgstr "Deckkraft der Bildunterschrift"
+
+# automatic translation
+#: admin/include/fields.php:807
+msgid ""
+"Opacity of the caption, 0% means 'invisible' while 100% is a plain color "
+"without opacity."
+msgstr ""
+"Deckkraft der Beschriftung, 0% bedeutet \"unsichtbar\", während 100% eine "
+"reine Farbe ohne Deckkraft ist."
+
+# automatic translation
+#: admin/include/fields.php:816
+msgid "WordPress caption field"
+msgstr "WordPress-Beschriftungsfeld"
+
+# automatic translation
+#: admin/include/fields.php:818
+msgid ""
+"WordPress field used for captions. <strong>This field is used ONLY when "
+"images are added to the gallery, </strong> however, if you want to ignore "
+"captions just set it to '<i>Don't use captions</i>'."
+msgstr ""
+"WordPress-Feld für Beschriftungen. <strong>Dieses Feld wird NUR verwendet, "
+"wenn der Galerie Bilder hinzugefügt werden.</strong> Wenn Sie Untertitel "
+"jedoch ignorieren möchten, setzen Sie sie einfach auf &quot; <i>Keine "
+"Untertitel verwenden</i> &quot;."
+
+# automatic translation
+#: admin/include/fields.php:833
+msgid "WordPress title field"
+msgstr "WordPress-Titelfeld"
+
+# automatic translation
+#: admin/include/fields.php:835
+msgid ""
+"WordPress field used for titles. <strong>This field is used ONLY when "
+"images are added to the gallery, </strong> however, if you want to ignore "
+"titles just set it to '<i>Don't use titles</i>'."
+msgstr ""
+"WordPress-Feld für Titel. <strong>Dieses Feld wird NUR verwendet, wenn der "
+"Galerie Bilder hinzugefügt werden.</strong> Wenn Sie Titel ignorieren "
+"möchten, setzen Sie sie einfach auf &quot; <i>Keine Titel verwenden</i> "
+"&quot;."
+
+# automatic translation
+#: admin/include/fields.php:849
+msgid "Recent posts caption"
+msgstr "Aktuelle Beiträge Untertitel"
+
+# automatic translation
+#: admin/include/fields.php:851
+msgid "Field of the post used for captions when using \"Recent posts\" as source."
+msgstr ""
+"Feld des Beitrags, der für Beschriftungen verwendet wird, wenn \"Letzte "
+"Beiträge\" als Quelle verwendet werden."
+
+# automatic translation
+#: admin/include/fields.php:869
+msgid ""
+"Define the max number of words of the caption when <i>Recent posts "
+"caption</i> is set to <i>Auto excerpt</i>."
+msgstr ""
+"Definieren Sie die maximale Anzahl von Wörtern der Beschriftung, wenn für "
+"die Überschrift &quot; <i>Letzte Beiträge&quot; die Option &quot;</i> "
+"<i>Auto-Auszug&quot; festgelegt ist</i> ."
+
+# automatic translation
+#: admin/include/fields.php:875
+msgid "Caption Vertical Alignment"
+msgstr "Beschriftung Vertikale Ausrichtung"
+
+# automatic translation
+#: admin/include/fields.php:877
+msgid "Choose the vertical alignment of the caption"
+msgstr "Wählen Sie die vertikale Ausrichtung der Beschriftung"
+
+# automatic translation
+#: admin/include/fields.php:889
+msgid "Caption Horizontal Alignment"
+msgstr "Beschriftung Horizontale Ausrichtung"
+
+# automatic translation
+#: admin/include/fields.php:891
+msgid "Choose the horizontal alignment of the caption"
+msgstr "Wählen Sie die horizontale Ausrichtung der Beschriftung"
+
+# automatic translation
+#: admin/include/fields.php:903
+msgid "Title font size"
+msgstr "Titelschriftgröße"
+
+# automatic translation
+#: admin/include/fields.php:916
+msgid "Zoom"
+msgstr "Zoomen"
+
+# automatic translation
+#: admin/include/fields.php:918
+msgid "Scale value."
+msgstr "Skalierungswert"
+
+# automatic translation
+#: admin/include/fields.php:928
+msgid "Rotation"
+msgstr "Drehung"
+
+# automatic translation
+#: admin/include/fields.php:930
+msgid "Rotation value in degrees."
+msgstr "Drehwert in Grad."
+
+# automatic translation
+#: admin/include/fields.php:939 admin/include/fields.php:959
+msgid "Duration"
+msgstr "Dauer"
+
+# automatic translation
+#: admin/include/fields.php:950
+msgid "Rotate icon"
+msgstr "Symbol drehen"
+
+# automatic translation
+#: admin/include/fields.php:953
+msgid "Enable rotation of the icon."
+msgstr "Rotation des Symbols aktivieren."
+
+# automatic translation
+#: admin/include/fields.php:970
+msgid "Easing curve"
+msgstr "Lockerungskurve"
+
+# automatic translation
+#: admin/include/fields.php:972
+msgid "Choose the easing curve for the loading effect animation"
+msgstr "Wählen Sie die Beschleunigungskurve für die Ladeeffektanimation"
+
+# automatic translation
+#: admin/include/fields.php:989
+msgid "Vertical scaling"
+msgstr "Vertikale Skalierung"
+
+# automatic translation
+#: admin/include/fields.php:1000
+msgid "Horizontal scaling"
+msgstr "Horizontale Skalierung"
+
+# automatic translation
+#: admin/include/fields.php:1011
+msgid "Vertical rotation"
+msgstr "Vertikale Drehung"
+
+# automatic translation
+#: admin/include/fields.php:1022
+msgid "Horizontal rotation"
+msgstr "Horizontale Drehung"
+
+# automatic translation
+#: admin/include/fields.php:1033
+msgid "Horizontal slide"
+msgstr "Horizontale Folie"
+
+# automatic translation
+#: admin/include/fields.php:1044
+msgid "Vertical slide"
+msgstr "Vertikale Folie"
+
+# automatic translation
+#: admin/include/fields.php:1055
+msgid "Border size"
+msgstr "Rahmengrösse"
+
+# automatic translation
+#: admin/include/fields.php:1057
+msgid "Size of the border of each image."
+msgstr "Größe des Randes jedes Bildes."
+
+# automatic translation
+#: admin/include/fields.php:1066
+msgid "Border radius"
+msgstr "Grenzradius"
+
+# automatic translation
+#: admin/include/fields.php:1068
+msgid "Border radius of the images."
+msgstr "Rahmenradius der Bilder."
+
+# automatic translation
+#: admin/include/fields.php:1077
+msgid "Border color"
+msgstr "Randfarbe"
+
+# automatic translation
+#: admin/include/fields.php:1079
+msgid "Color of the border when size is greater than 0."
+msgstr "Farbe des Rahmens, wenn Größe größer als 0 ist."
+
+# automatic translation
+#: admin/include/fields.php:1085
+msgid "Loading Bar color"
+msgstr "Farbe des Ladebalkens"
+
+# automatic translation
+#: admin/include/fields.php:1087
+msgid "Color of the loading bar"
+msgstr "Farbe der Ladeleiste"
+
+# automatic translation
+#: admin/include/fields.php:1093
+msgid "Loading Bar background color"
+msgstr "Hintergrundfarbe des Ladebalkens"
+
+# automatic translation
+#: admin/include/fields.php:1095
+msgid "Background color of the loading bar"
+msgstr "Hintergrundfarbe des Ladebalkens"
+
+# automatic translation
+#: admin/include/fields.php:1101
+msgid "Shadow size"
+msgstr "Schattengröße"
+
+# automatic translation
+#: admin/include/fields.php:1103
+msgid "Shadow size of the images."
+msgstr "Schattengröße der Bilder."
+
+# automatic translation
+#: admin/include/fields.php:1112
+msgid "Shadow color"
+msgstr "Schattenfarbe"
+
+# automatic translation
+#: admin/include/fields.php:1114
+msgid "Color of the shadow when size is greater than 0."
+msgstr "Farbe des Schattens, wenn die Größe größer als 0 ist."
+
+# automatic translation
+#: admin/include/fields.php:1120
+msgid "Tile background color"
+msgstr "Fliese Hintergrundfarbe"
+
+# automatic translation
+#: admin/include/fields.php:1122
+msgid "Background color of tiles"
+msgstr "Hintergrundfarbe der Fliesen"
+
+# automatic translation
+#: admin/include/fields.php:1128
+msgid "Additional CSS class on A tag"
+msgstr "Zusätzliche CSS-Klasse für ein A-Tag"
+
+# automatic translation
+#: admin/include/fields.php:1130
+msgid ""
+"Use this field if you need to add additional CSS classes to the link that "
+"contains the image."
+msgstr ""
+"Verwenden Sie dieses Feld, wenn Sie dem Link, der das Bild enthält, weitere "
+"CSS-Klassen hinzufügen müssen."
+
+# automatic translation
+#: admin/include/fields.php:1138
+msgid ""
+"Use this field if you need to add additional CSS classes to the link that "
+"contains the image. This is useful mostly to integrate the gallery with "
+"other lightbox plugins."
+msgstr ""
+"Verwenden Sie dieses Feld, wenn Sie dem Link, der das Bild enthält, weitere "
+"CSS-Klassen hinzufügen müssen. Dies ist vor allem nützlich, um die Galerie "
+"mit anderen Lightbox-Plugins zu integrieren."
+
+# automatic translation
+#: admin/include/fields.php:1144
+msgid "Text before gallery"
+msgstr "Text vor der Galerie"
+
+# automatic translation
+#: admin/include/fields.php:1146
+msgid "Use this field to add text/html to be placed just before your gallery."
+msgstr ""
+"Verwenden Sie dieses Feld, um Text / HTML hinzuzufügen, der direkt vor "
+"Ihrer Galerie platziert werden soll."
+
+# automatic translation
+#: admin/include/fields.php:1153
+msgid "Text after gallery"
+msgstr "Text nach Galerie"
+
+# automatic translation
+#: admin/include/fields.php:1155
+msgid "Use this field to add text/html to be placed just after your gallery."
+msgstr ""
+"Verwenden Sie dieses Feld, um Text / HTML hinzuzufügen, der direkt hinter "
+"Ihrer Galerie platziert werden soll."
+
+# automatic translation
+#: admin/include/fields.php:1162
+msgid "Custom CSS"
+msgstr "Benutzerdefinierte CSS"
+
+# automatic translation
+#: admin/include/fields.php:1164
+msgid ""
+"<strong>Write just the code without using the &lt;style&gt; "
+"tag.</strong><br>List of useful selectors:<br>\n"
+"        <br>\n"
+"        <ul>\n"
+"            <li>\n"
+"                <em>.final-tiles-gallery</em> : gallery container;\n"
+"            </li>\n"
+"            <li>\n"
+"                <em>.final-tiles-gallery .tile-inner</em> : tile content;\n"
+"            </li>\n"
+"            <li>\n"
+"                <em>.final-tiles-gallery .tile-inner .item</em> : image of "
+"the tile;\n"
+"            </li>\n"
+"            <li>\n"
+"                <em>.final-tiles-gallery .tile-inner .caption</em> : "
+"caption of the tile;\n"
+"            </li>\n"
+"            <li>\n"
+"                <em>.final-tiles-gallery .ftg-filters</em> : filters "
+"container\n"
+"            </li>\n"
+"            <li>\n"
+"                <em>.final-tiles-gallery .ftg-filters a</em> : filter\n"
+"            </li>\n"
+"            <li>\n"
+"                <em>.final-tiles-gallery .ftg-filters a.selected</em> : "
+"selected filter\n"
+"            </li>\n"
+"        </ul>"
+msgstr ""
+"<strong>Schreiben Sie nur den Code, ohne das &lt;style&gt; -Tag zu "
+"verwenden.</strong> <br> Liste nützlicher Selektoren: <br><br><ul><li> "
+"<em>.final-tile-gallery</em> : Galeriecontainer; </li><li> "
+"<em>.finalfliesen-galerie .flieseninnere</em> : Flieseninhalt; </li><li> "
+"<em>.finalfliesen-galerie .fliesen-inneres .item</em> : bild der "
+"<em>fliese</em> ; </li><li> <em>.finalfliesen-galerie "
+".flieseninnerecaption</em> : beschriftung der <em>fliese</em> ; </li><li> "
+"<em>.final-tile-gallery .ftg-filters</em> : filtert den Container </li><li> "
+"<em>.final-tile-gallery .ftg-Filter a</em> : filter </li><li> "
+"<em>.final-tile-gallery .ftg-filters a.selected</em> : selected filter "
+"</li></ul>"
+
+# automatic translation
+#: admin/include/fields.php:1195
+msgid "Custom scripts"
+msgstr "Benutzerdefinierte Skripte"
+
+# automatic translation
+#: admin/include/fields.php:1197
+msgid ""
+"This script will be called after the gallery initialization. Useful for "
+"custom lightboxes.\n"
+"            <br />\n"
+"            <br />\n"
+"            <strong>Write just the code without using the "
+"&lt;script&gt;&lt;/script&gt; tags</strong>"
+msgstr ""
+"Dieses Skript wird nach der Initialisierung der Galerie aufgerufen. "
+"Nützlich für benutzerdefinierte Leuchtkästen. <br /><br /> "
+"<strong>Schreiben Sie nur den Code, ohne die Tags &lt;script&gt; &lt;/ "
+"script&gt; zu verwenden</strong>"
+
+# automatic translation
+#: admin/include/fields.php:1207
+msgid "Delay"
+msgstr "Verzögern"
+
+# automatic translation
+#: admin/include/fields.php:1209
+msgid ""
+"Delay (in milliseconds) before firing the gallery. Sometimes it's needed to "
+"avoid conflicts with other plugins."
+msgstr ""
+"Verzögerung (in Millisekunden), bevor die Galerie abgefeuert wird. Manchmal "
+"ist es erforderlich, um Konflikte mit anderen Plugins zu vermeiden."
+
+# automatic translation
+#: admin/include/fields.php:1218
+msgid "Show developer link"
+msgstr "Entwicklerlink anzeigen"
+
+# automatic translation
+#: admin/include/fields.php:1220
+msgid "I want to support this plugin, show the developer link!"
+msgstr "Ich möchte dieses Plugin unterstützen, den Entwicklerlink anzeigen!"
+
+# automatic translation
+#: admin/include/fields.php:1228
+msgid "Developer link text"
+msgstr "Entwickler-Link-Text"
+
+# automatic translation
+#: admin/include/fields.php:1230
+msgid "Text for the developer link"
+msgstr "Text für den Entwicklerlink"
+
+# automatic translation
+#: admin/include/fields.php:1236
+msgid "Number of columns (Tablet landscape)"
+msgstr "Anzahl der Spalten (Tablet-Landschaft)"
+
+# automatic translation
+#: admin/include/fields.php:1246
+msgid "Number of columns (Tablet portrait)"
+msgstr "Anzahl der Spalten (Tablet Portrait)"
+
+# automatic translation
+#: admin/include/fields.php:1256
+msgid "Number of columns (Phone landscape)"
+msgstr "Anzahl der Spalten (Telefonlandschaft)"
+
+# automatic translation
+#: admin/include/fields.php:1266
+msgid "Number of columns (Phone portrait)"
+msgstr "Anzahl der Spalten (Telefonportrait)"
+
+# automatic translation
+#: admin/include/fields.php:1276
+msgid "Image size factor"
+msgstr "Faktor für die Bildgröße"
+
+# automatic translation
+#: admin/include/fields.php:1278
+msgid ""
+"Percentage of image size, i.e.: if an image of the gallery is 300x200 and "
+"the size factor is 50% then the resulting image will be 150x100.\n"
+"            90% is a suggested default value, because under some "
+"circumstances, the images could be enlarged by the script (to fill gaps and "
+"avoid blank spaces between tiles)."
+msgstr ""
+"Prozentsatz der Bildgröße, d. H .: wenn ein Bild der Galerie 300 x 200 ist "
+"und der Größenfaktor 50% beträgt, wird das resultierende Bild 150 x 100 "
+"sein.\n"
+"            90% ist ein empfohlener Standardwert, da die Bilder unter "
+"Umständen durch das Skript vergrößert werden können (um Lücken zu füllen "
+"und Leerzeichen zwischen Kacheln zu vermeiden)."
+
+# automatic translation
+#: admin/include/fields.php:1290
+msgid ""
+"Image size factor to apply when the viewport is 1024px, typically for "
+"tablets with landscape orientation"
+msgstr ""
+"Der Bildgrößenfaktor, der angewendet werden soll, wenn der "
+"Darstellungsbereich 1024 Pixel beträgt, normalerweise für Tablets mit "
+"Querformat"
+
+# automatic translation
+#: admin/include/fields.php:1299
+msgid "Image size factor Tablet Portrait"
+msgstr "Bildgrößenfaktor Tablet Portrait"
+
+# automatic translation
+#: admin/include/fields.php:1301
+msgid ""
+"Image size factor to apply when the viewport is 768px, typically for "
+"tablets with portrait orientation"
+msgstr ""
+"Der Bildgrößenfaktor, der angewendet werden soll, wenn der "
+"Darstellungsbereich 768 Pixel beträgt, normalerweise für Tablets mit "
+"Hochformat"
+
+# automatic translation
+#: admin/include/fields.php:1310
+msgid "Image size factor Smartphone Landscape"
+msgstr "Bildgrößenfaktor Smartphone-Landschaft"
+
+# automatic translation
+#: admin/include/fields.php:1312
+msgid ""
+"Image size factor to apply when the viewport is 640px, typically for "
+"smartphones with landscape orientation"
+msgstr ""
+"Bildgrößenfaktor, der angewendet werden soll, wenn der Darstellungsbereich "
+"640 Pixel beträgt, normalerweise für Smartphones mit Querformat"
+
+# automatic translation
+#: admin/include/fields.php:1321
+msgid "Image size factor Phone Portrait"
+msgstr "Bildgrößenfaktor Telefonporträt"
+
+# automatic translation
+#: admin/include/fields.php:1323
+msgid ""
+"Image size factor to apply when the viewport is 320px, typically for "
+"smartphones with portrait orientation"
+msgstr ""
+"Der Bildgrößenfaktor, der angewendet werden soll, wenn der "
+"Darstellungsbereich 320 Pixel beträgt, normalerweise für Smartphones mit "
+"Hochformat"
+
+# automatic translation
+#: admin/include/fields.php:1332
+msgid "Custom image size factor"
+msgstr "Benutzerdefinierter Bildgrößenfaktor"
+
+# automatic translation
+#: admin/include/fields.php:1338
+msgid ""
+"Use this field if you need further resolutions. Make custom layout for any "
+"device and resolution."
+msgstr ""
+"Verwenden Sie dieses Feld, wenn Sie weitere Auflösungen benötigen. "
+"Erstellen Sie ein benutzerdefiniertes Layout für jedes Gerät und die "
+"Auflösung."
+
+# automatic translation
+#: admin/include/fields.php:1346
+msgid "Compress HTML"
+msgstr "HTML komprimieren"
+
+# automatic translation
+#: admin/include/fields.php:1348
+msgid ""
+"Enable or disable HTML compression, some themes prefer uncompressed, switch "
+"it off in case of problems."
+msgstr ""
+"Aktivieren oder deaktivieren Sie die HTML-Komprimierung. Einige Designs "
+"bevorzugen die Komprimierung. Schalten Sie sie bei Problemen aus."
+
+# automatic translation
+#: admin/include/fields.php:1354
+msgid "Tile minimum width"
+msgstr "Mindestbreite der Fliese"
+
+# automatic translation
+#: admin/include/fields.php:1356
+msgid ""
+"Minimum width of each tile, <strong>multiply this value for the image size "
+"factor to get the real size</strong>."
+msgstr ""
+"Minimale Breite jeder Kachel: <strong>Multiplizieren Sie diesen Wert für "
+"den Bildgrößenfaktor, um die tatsächliche Größe zu erhalten</strong> ."
+
+# automatic translation
+#: admin/include/fields.php:1365
+msgid "Allow image enlargement"
+msgstr "Bildvergrößerung zulassen"
+
+# automatic translation
+#: admin/include/fields.php:1367
+msgid ""
+"Images can be occasionally enlarged to avoid gaps. If you notice a quality "
+"loss try to reduce the <strong>Image size factor</strong> parameter."
+msgstr ""
+"Bilder können gelegentlich vergrößert werden, um Lücken zu vermeiden. Wenn "
+"Sie einen Qualitätsverlust feststellen, reduzieren Sie den Parameter für "
+"den <strong>Bildgrößenfaktor</strong> ."
+
+# automatic translation
+#: admin/include/fields.php:1376
+msgid "Write here the label for the 'All' filter"
+msgstr "Schreiben Sie hier das Etikett für den Filter \"Alle\""
+
+# automatic translation
+#: admin/overview.php:19
+msgid "Welcome to Final Tiles Grid Gallery!"
+msgstr "Willkommen in der Final Tiles Grid Gallery!"
+
+# automatic translation
+#: admin/overview.php:21
+msgid "Create your first awesome gallery, click"
+msgstr "Erstellen Sie Ihre erste großartige Galerie, klicken Sie auf"
+
+# automatic translation
+#: admin/overview.php:105
+msgid "Galleries"
+msgstr "Galerien"
+
+# automatic translation
+#: admin/overview.php:108
+msgid "Add gallery"
+msgstr "Galerie hinzufügen"
+
+# automatic translation
+#: admin/overview.php:122
+msgid "Confirmation"
+msgstr "Bestätigung"
+
+# automatic translation
+#: admin/overview.php:123
+msgid "Do you really want to delete the gallery"
+msgstr "Möchten Sie die Galerie wirklich löschen?"
+
+# automatic translation
+#: admin/overview.php:126
+msgid "Yes"
+msgstr "Ja"
+
+# automatic translation
+#: admin/overview.php:127
+msgid "No"
+msgstr "Nein"
+
+# automatic translation
+#: admin/overview.php:134
+msgid "Copy and paste the following shortcode inside a post, page or widget:"
+msgstr ""
+"Kopieren Sie den folgenden Kurzcode und fügen Sie ihn in einen Beitrag, "
+"eine Seite oder ein Widget ein:"
+
+# automatic translation
+#: scripts/gutenberg_block.js:18
+msgid "Final Tiles Gallery"
+msgstr "Final Tiles Gallery"
+
+# automatic translation
+#: scripts/gutenberg_block.js:65
+msgid "Shortcode parameters"
+msgstr "Shortcode-Parameter"
+
+# automatic translation
+#: scripts/gutenberg_block.js:69
+msgid "Select gallery layout"
+msgstr "Galerie-Layout auswählen"
+
+# automatic translation
+#: scripts/gutenberg_block.js:72
+msgid "Masonry"
+msgstr "Mauerwerk"
+
+# automatic translation
+#: scripts/gutenberg_block.js:73
+msgid "Final Tiles"
+msgstr "Schlussfliesen"
+
+# automatic translation
+#: scripts/gutenberg_block.js:77
+msgid "Shortcode Attributes"
+msgstr "Shortcode-Attribute"
+
+# automatic translation
+#: scripts/gutenberg_block.js:84
+msgid ""
+"Space separated list of attributes. Example: margin=\"10\" "
+"loaded_easing=\"linear\" min_tile_width=\"250\""
+msgstr ""
+"Leerzeichen getrennte Liste der Attribute. Beispiel: margin = \"10\" "
+"loaded_easing = \"linear\" min_tile_width = \"250\""
+
+# automatic translation
+#: scripts/gutenberg_block.js:102
+msgid "You don't seem to have any galleries."
+msgstr "Sie scheinen keine Galerien zu haben."
+
+# automatic translation
+msgid "General"
+msgstr "Allgemeines"
+
+# automatic translation
+msgid "Advanced"
+msgstr "Erweitert"
+
+# automatic translation
+msgid "Style"
+msgstr "Stil"
+
+# automatic translation
+msgid "Captions"
+msgstr "Bildunterschriften"
+
+# automatic translation
+msgid "Hover effects"
+msgstr "Hover-Effekte"
+
+# automatic translation
+msgid "Image loaded effects"
+msgstr "Bild geladene Effekte"
+
+# automatic translation
+msgid "Customizations"
+msgstr "Anpassungen"
+
+# automatic translation
+msgid "Text for 'All' filter"
+msgstr "Text für den Filter \"Alle\""

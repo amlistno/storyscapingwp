@@ -12,4 +12,9 @@
  Text Domain:  twentyfifteenchild
 */
 
-body {background-color: purple !important;}
+
+
+/* hides player controls */ 
+.plyr__controls {
+    display: none !important;
+}
