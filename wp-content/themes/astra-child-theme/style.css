@@ -18,3 +18,17 @@
 .plyr__controls {
     display: none !important;
 }
+
+/* header and NAV adjustments */ 
+.main-header-bar {
+    position: fixed;
+    width: 100%;
+}
+
+.main-header-menu .menu-item:hover > .menu-link, .main-header-menu .menu-item:hover > .ast-menu-toggle, .main-header-menu .ast-masthead-custom-menu-items a:hover, .main-header-menu .menu-item.focus > .menu-link, .main-header-menu .menu-item.focus > .ast-menu-toggle, .main-header-menu .current-menu-item > .menu-link, .main-header-menu .current-menu-ancestor > .menu-link, .main-header-menu .current-menu-item > .ast-menu-toggle, .main-header-menu .current-menu-ancestor > .ast-menu-toggle {
+    color: #20422d;
+}
+
+.main-header-menu .menu-item:hover > .menu-link {
+    color: #4b8061;
+}
