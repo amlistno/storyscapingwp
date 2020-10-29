@@ -32,3 +32,29 @@
 .main-header-menu .menu-item:hover > .menu-link {
     color: #4b8061;
 }
+
+/* Added Fonts  
+@font-face {
+    font-family: 'Metropolis';
+    src: url('fonts/Metropolis-Regular.otf') format('opentype');
+        
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+p {
+  font-family: Metropolis !important;
+  font-weight: normal;
+  font-style: normal; 
+}
+*/
+
+.elementor-kit-3049 h1 {
+  font-family: essonnes-display, serif;
+}
+.elementor-kit-3049 h2 {
+  font-family: essonnes-display, serif;
+}
+
+
+
