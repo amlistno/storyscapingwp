@@ -10,13 +10,13 @@ body {
 	text-align: center;
     width: 500px !important;
     height: auto !important; 
-    position:relative !important;
+    position:fixed !important;
     padding: 30px 30px 30px 30px !important;
     background-color:  white;
     left: 50% !important;
     margin-top: 0% !important;
-    -webkit-transform: translateX(-50%) translateY(-50%) !important;
-    transform: translateX(-50%) translateY(-50%) !important;
+    -webkit-transform: translateX(-50%) translateY(-200%) !important;
+    transform: translateX(-50%) translateY(-200%) !important;
     border: 5px solid #215945 !important;
 	border-radius: 5px;
 }
@@ -163,8 +163,8 @@ input[type="submit"]:hover {
 
 
 .login-form {
-    -webkit-animation: slide-in-blurred-top 0.8s cubic-bezier(0.230, 1.000, 0.320, 1.000) 5s both;
-    animation: slide-in-blurred-top 0.8s cubic-bezier(0.230, 1.000, 0.320, 1.000) 5s both;
+    -webkit-animation: slide-in-blurred-top 0.8s cubic-bezier(0.230, 1.000, 0.320, 1.000) 10s both;
+    animation: slide-in-blurred-top 0.8s cubic-bezier(0.230, 1.000, 0.320, 1.000) 10s both;
 }
 
 /* ----------------------------------------------
