@@ -16,11 +16,14 @@ function newsletter_form()
     $content = '';
     $content .= '<div class="login-form">';
     $content .= '<div class="popupCloseButton">X</div>';
+	$content .= '<img src="  '. plugins_url("repotSOME/img/logo.png") .'  " alt="RePot Logo">';
 
 
 
     $content .='<section>';
     $content .='<h3 id="velkommen">Want to spread the message of sustainability?</h3>';
+	
+	
     
     $content .= '<h3 id="velkommen">Join us on Instagram!</h3>';
 	
@@ -52,6 +55,8 @@ function register_styles_and_scripts_for_plugin()
 
     
     wp_enqueue_style ('CustomFontMontserrat','https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;800&display=swap');
+	
+	wp_enqueue_style ('CustomFontKarla','https://fonts.googleapis.com/css2?family=Karla&display=swap');
     
 /*This is how we link to a google font style*/
     

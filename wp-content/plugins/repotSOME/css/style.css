@@ -10,7 +10,7 @@ body {
 	text-align: center;
     width: 500px !important;
     height: auto !important; 
-    position:fixed !important;
+    position:relative !important;
     padding: 30px 30px 30px 30px !important;
     background-color:  white;
     left: 50% !important;
@@ -22,8 +22,9 @@ body {
 }
 
 #logo {
-    width: 70% !important;
+    width: 100px !important;
     margin-left: 16% !important;
+	margin-top: 20px;
 }
 
 #velkommen {
@@ -162,8 +163,8 @@ input[type="submit"]:hover {
 
 
 .login-form {
-    -webkit-animation: slide-in-blurred-top 0.8s cubic-bezier(0.230, 1.000, 0.320, 1.000) 2s both;
-    animation: slide-in-blurred-top 0.8s cubic-bezier(0.230, 1.000, 0.320, 1.000) 2s both;
+    -webkit-animation: slide-in-blurred-top 0.8s cubic-bezier(0.230, 1.000, 0.320, 1.000) 5s both;
+    animation: slide-in-blurred-top 0.8s cubic-bezier(0.230, 1.000, 0.320, 1.000) 5s both;
 }
 
 /* ----------------------------------------------
