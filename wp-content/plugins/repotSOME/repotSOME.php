@@ -36,7 +36,7 @@ function newsletter_form()
     $content .='<form action="#" id="myForm">';
 
     $content .= '<div>';
-    $content .='<input type="button" value="VISIT OUR INSTAGRAM">';
+    $content .='<input type="button" value="VISIT OUR INSTAGRAM" name="submitBtn" id="submitBtn">';
     $content .= '</div>';
     $content .= '</form>';
     $content .= '</section>';
